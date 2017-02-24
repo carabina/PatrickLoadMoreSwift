@@ -1,0 +1,16 @@
+PODS:
+  - PatrickLoadMoreSwift (0.1.0)
+
+DEPENDENCIES:
+  - PatrickLoadMoreSwift (from `../`)
+
+EXTERNAL SOURCES:
+  PatrickLoadMoreSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PatrickLoadMoreSwift: b4fa2c5aa374fad1cd4377f4496e97ab4ccbd1a5
+
+PODFILE CHECKSUM: c743ba981f3b7064893d9097e3d052b4037cf32d
+
+COCOAPODS: 1.2.0

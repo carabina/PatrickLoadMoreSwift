@@ -1,0 +1,6 @@
+framework module PatrickLoadMoreSwift {
+  umbrella header "PatrickLoadMoreSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -22,11 +22,11 @@ Load More Data
 Created By Pratik Panchal
                        DESC
 
-  s.homepage         = 'https://github.com/hbsameer/PatrickLoadMoreSwift'
+  s.homepage         = 'https://github.com/pratikpanchal131/PatrickLoadMoreSwift.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hbsameer' => 'pratik.panchal@indianic.com' }
-  s.source           = { :git => 'https://github.com/hbsameer/PatrickLoadMoreSwift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pratikpanchal131/PatrickLoadMoreSwift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

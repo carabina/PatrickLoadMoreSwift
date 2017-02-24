@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PatrickLoadMoreSwift_Example' do
+  pod 'PatrickLoadMoreSwift', :path => '../'
+
+  target 'PatrickLoadMoreSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
